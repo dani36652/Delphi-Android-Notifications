@@ -1,0 +1,37 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 432
+  ClientWidth = 318
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Button1: TButton
+    Align = Bottom
+    Position.Y = 344.000000000000000000
+    Size.Width = 318.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Crear notificaci'#243'n'
+    TextSettings.Trimming = None
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Align = Bottom
+    Position.Y = 388.000000000000000000
+    Size.Width = 318.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Cancelar notificaci'#243'n'
+    TextSettings.Trimming = None
+    OnClick = Button2Click
+  end
+  object NotificationC: TNotificationCenter
+    Left = 168
+    Top = 192
+  end
+end

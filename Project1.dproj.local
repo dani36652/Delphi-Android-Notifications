@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/18 09:46:33.000.549,=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/18 15:50:35.000.894,C:\Users\drodriguez\Music\Notify\Unit1.pas=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/18 15:50:35.000.894,C:\Users\drodriguez\Music\Notify\Unit1.fmx=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/12/18 15:50:37.000.912,C:\Users\drodriguez\Music\Notify\Project1.dproj=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/18 15:51:03.000.520,=C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas</Transaction>
+    <Transaction>2024/12/18 17:52:23.000.191,C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas=</Transaction>
+    <Transaction>2024/12/18 17:55:14.000.764,=C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas</Transaction>
+    <Transaction>2024/12/19 10:28:24.000.782,C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas=</Transaction>
+    <Transaction>2024/12/19 10:29:19.000.059,=C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas</Transaction>
+    <Transaction>2024/12/19 11:44:47.000.880,C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas=</Transaction>
+    <Transaction>2024/12/19 11:46:14.000.921,=C:\Users\drodriguez\Music\Notify\System.Android.Notification.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="MR7PSGG6NZLNEU7T" Android64="MR7PSGG6NZLNEU7T"/>
+	</ActiveMobileDevice>
+</BorlandProject>
